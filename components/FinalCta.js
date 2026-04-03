@@ -79,7 +79,7 @@ export default function FinalCta() {
         {/* Product mockup */}
         <div className="flex justify-center mb-10">
           <Image
-            src="/mockup/Turquia.png"
+            src="/mockup/turquia.webp"
             alt={finalCta.mockupAlt}
             width={320}
             height={320}

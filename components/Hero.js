@@ -101,7 +101,7 @@ export default function Hero() {
               <div className="absolute inset-0 bg-[#8cbc36]/20 rounded-3xl blur-2xl scale-110" />
               <div className="relative w-full max-w-sm lg:max-w-md">
                 <Image
-                  src="/mockup/Turquia.png"
+                  src="/mockup/turquia.webp"
                   alt={hero.heroImageAlt}
                   width={480}
                   height={600}
